@@ -5,9 +5,8 @@
 | Họ và Tên | Mã Học Viên | Việc đã làm |
 |---|---|---|
 | Trịnh Minh Đức | 2A202604078 | Dựng prototype (`prototype/index.html`), chụp ảnh đánh số, viết §5 |
-| Trương Anh Đức | 2A202604096 | Viết câu chữ AI cho hai kịch bản đắt nhất, viết §3 |
-| Nguyễn Hoàng Ân | 2A202604025 | Dựng dữ liệu, bảng kịch bản §2, mức tự chủ §4, tiêu chí §6, kịch bản demo |
-
+| Nguyễn Hoàng Ân | 2A202604096 | Viết câu chữ AI cho hai kịch bản đắt nhất, viết §3 |
+| Trương Anh Đức | 2A202604025 | Dựng dữ liệu, bảng kịch bản §2, mức tự chủ §4, tiêu chí §6, kịch bản demo |
 ---
 
 ## §1. Lát cắt & phạm vi
